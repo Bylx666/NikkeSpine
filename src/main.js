@@ -2,7 +2,7 @@ var load = function (
 	currentSkeleton = 'c010',
 	currentPosture = 'stand',
 	currentAnimation = 'idle',
-	cdn = 'https://cdn.jsdelivr.net/gh/Pelom777/NikkeSpine/'
+	cdn = '/'
 ) {
 	var isMobile;
 	var lastFrameTime = Date.now() / 1000;
